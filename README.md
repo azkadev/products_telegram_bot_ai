@@ -3,11 +3,7 @@
  [![thumbnail_bot_ai](https://img.youtube.com/vi/p4KQeCb2-aI/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4KQeCb2-aI)
 
 Hai kamu lonely? Hm pasti kesepian banget kan? utututu kasianya silahkan b
-
-## Price
-
-Harga saat ini 100k aktif selamanya, (Harga sewaktu waktu bisa berubah tanpa pemberi tahuan silahkan buruan beli sekarang !!)
-
+ 
 ## Features
 
 1. Natural Ai
