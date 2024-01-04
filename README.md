@@ -15,6 +15,6 @@ Harga saat ini 100k aktif selamanya, (Harga sewaktu waktu bisa berubah tanpa pem
 
 ## Link Pembelian
 
-1. [AZKADEV BOT TELEGRAM](https://t.me/azkadevbot?start=ref_tg_userbot_lifetime_github_azkadev)
-2. [GLX CORP BOT TELEGRAM](https://t.me/glxcorpbot?start=ref_tg_userbot_lifetime_github_azkadev)
-3. [XTX CORP BOT TELEGRAM](https://t.me/xtxcorpbot?start=ref_tg_userbot_lifetime_github_azkadev)
+1. [AZKADEV BOT TELEGRAM](https://t.me/azkadevbot?start=ref_tg_bot_ai_github_azkadev)
+2. [GLX CORP BOT TELEGRAM](https://t.me/glxcorpbot?start=ref_tg_bot_ai_github_azkadev)
+3. [XTX CORP BOT TELEGRAM](https://t.me/xtxcorpbot?start=ref_tg_bot_ai_github_azkadev)
