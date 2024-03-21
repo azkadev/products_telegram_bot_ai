@@ -1,16 +1,17 @@
-# Telegram Bot Ai
- 
- [![thumbnail_bot_ai](https://img.youtube.com/vi/p4KQeCb2-aI/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4KQeCb2-aI)
+IyBUZWxlZ3JhbSBCb3QgQWkKIAogWyFbdGh1bWJuYWlsX2JvdF9haV0oaHR0
+cHM6Ly9pbWcueW91dHViZS5jb20vdmkvcDRLUWVDYjItYUkvbWF4cmVzZGVm
+YXVsdC5qcGcpXShodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXA0
+S1FlQ2IyLWFJKQoKSGFpIGthbXUgbG9uZWx5PyBIbSBwYXN0aSBrZXNlcGlh
+biBiYW5nZXQga2FuPyB1dHV0dXR1IGthc2lhbnlhIHNpbGFoa2FuIGIKIAoj
+IyBGZWF0dXJlcwoKMS4gTmF0dXJhbCBBaQoyLiBDcmVhdGUgSW1hZ2UgLyBW
+aWRlbyAvIFNjcmlwdCAvIFNvdXJjZSBDb2RlCgojIyBMaW5rIFBlbWJlbGlh
+bgoKMS4gW0FaS0FERVYgQk9UIFRFTEVHUkFNXShodHRwczovL3QubWUvYXpr
+YWRldmJvdD9zdGFydD1yZWZfdGdfYm90X2FpX2dpdGh1Yl9hemthZGV2KQoy
+LiBbR0xYIENPUlAgQk9UIFRFTEVHUkFNXShodHRwczovL3QubWUvZ2x4Y29y
+cGJvdD9zdGFydD1yZWZfdGdfYm90X2FpX2dpdGh1Yl9hemthZGV2KQozLiBb
+WFRYIENPUlAgQk9UIFRFTEVHUkFNXShodHRwczovL3QubWUveHR4Y29ycGJv
+dD9zdGFydD1yZWZfdGdfYm90X2FpX2dpdGh1Yl9hemthZGV2KQ==
 
-Hai kamu lonely? Hm pasti kesepian banget kan? utututu kasianya silahkan b
- 
-## Features
-
-1. Natural Ai
-2. Create Image / Video / Script / Source Code
-
-## Link Pembelian
-
-1. [AZKADEV BOT TELEGRAM](https://t.me/azkadevbot?start=ref_tg_bot_ai_github_azkadev)
-2. [GLX CORP BOT TELEGRAM](https://t.me/glxcorpbot?start=ref_tg_bot_ai_github_azkadev)
-3. [XTX CORP BOT TELEGRAM](https://t.me/xtxcorpbot?start=ref_tg_bot_ai_github_azkadev)
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
